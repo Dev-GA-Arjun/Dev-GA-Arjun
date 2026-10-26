@@ -20,19 +20,6 @@ Computer Science student in Chennai, India, interested in open-source software, 
 
 <!-- OSS-STATS:END -->
 
-## Current Focus
-
-- Contributing to open-source projects
-- Building Memory, an open-source knowledge tool
-- Improving software engineering and testing skills
-- Preparing for future Google Summer of Code opportunities
-
-## Contribution Goals
-
-- Prioritise useful, reviewable pull requests.
-- Learn from maintainer feedback.
-- Track merged contributions, not just activity.
-- Document meaningful technical work and lessons learned.
 
 ## Find Me
 
