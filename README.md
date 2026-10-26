@@ -4,8 +4,6 @@ Computer Science student in Chennai, India, interested in open-source software, 
 
 ## Open Source Journey
 
-**November 2026 Goal: 100 Merged Pull Requests**
-
 <!-- OSS-STATS:START -->
 
 | Metric | Progress |
