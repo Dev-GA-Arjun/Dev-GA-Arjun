@@ -1,4 +1,4 @@
-# Hi, I'm Arjun
+# Hi, I'm G A Arjun
 
 Computer Science student in Chennai, India, interested in open-source software, backend engineering, and AI tools.
 
