@@ -8,10 +8,10 @@ Computer Science student in Chennai, India, interested in open-source software, 
 
 | Metric | Progress |
 |---|---:|
-| Merged PRs | 4 / 100 |
-| PRs opened | 4 |
+| Merged PRs | 5 / 100 |
+| PRs opened | 5 |
 | PRs reviewed | 0 |
-| Repositories contributed to | 2 |
+| Repositories contributed to | 3 |
 | Active contribution days | Update pending |
 
 <!-- OSS-STATS:END -->
