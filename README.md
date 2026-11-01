@@ -14,6 +14,10 @@ Computer Science student in Chennai, India, interested in open-source software, 
 | Repositories contributed to | 3 |
 | Active contribution days | Update pending |
 
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub activity koi" />
+</p>
+
 <!-- OSS-STATS:END -->
 
 
