@@ -37,3 +37,6 @@ jobs:
             git commit -m "chore: update open-source stats"
             git push
           fi
+
+      - name: git-profile-koi
+        uses: yalongwastaken/git-koi@v1.0.2
