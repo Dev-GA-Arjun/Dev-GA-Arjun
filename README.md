@@ -4,6 +4,10 @@ Computer Science student in Chennai, India, interested in open-source software, 
 
 ## Open Source Journey
 
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub activity koi" />
+</p>
+
 <!-- OSS-STATS:START -->
 
 | Metric | Progress |
@@ -13,10 +17,6 @@ Computer Science student in Chennai, India, interested in open-source software, 
 | PRs reviewed | 0 |
 | Repositories contributed to | 3 |
 | Active contribution days | Update pending |
-
-<p align="center">
-  <img src="koi/koi.gif" width="256" alt="My GitHub activity koi" />
-</p>
 
 <!-- OSS-STATS:END -->
 
