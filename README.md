@@ -1,12 +1,9 @@
-# Hi, I'm G A Arjun
-
-Computer Science student in Chennai, India, interested in open-source software, backend engineering, and AI tools.
-
-## Open Source Journey
 
 <p align="center">
   <img src="koi/koi.gif" width="256" alt="My GitHub activity koi" />
 </p>
+
+## Open Source Journey
 
 <!-- OSS-STATS:START -->
 
