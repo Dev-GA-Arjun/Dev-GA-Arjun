@@ -9,7 +9,7 @@
 
 | Metric | Progress |
 |---|---:|
-| Merged PRs | 5 / 100 |
+| Merged PRs | 6 / 100 |
 | PRs opened | 6 |
 | PRs reviewed | 0 |
 | Repositories contributed to | 4 |
