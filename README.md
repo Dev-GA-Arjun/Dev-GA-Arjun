@@ -9,10 +9,10 @@
 
 | Metric | Progress |
 |---|---:|
-| Merged PRs | 6 / 100 |
-| PRs opened | 6 |
+| Merged PRs | 9 / 100 |
+| PRs opened | 9 |
 | PRs reviewed | 0 |
-| Repositories contributed to | 4 |
+| Repositories contributed to | 5 |
 | Active contribution days | Update pending |
 
 <!-- OSS-STATS:END -->
